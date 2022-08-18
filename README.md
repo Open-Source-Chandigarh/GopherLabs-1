@@ -1,6 +1,6 @@
 # Welcome to Gopher Labs
 
-![logo](https://raw.githubusercontent.com/EngineITOps/GopherLabs/master/img/1280px-Go_Logo_Aqua.svg.png)
+![image](https://user-images.githubusercontent.com/313480/185289683-0dd788a5-6cf1-4e63-9490-698216678146.png)
 
 
 
